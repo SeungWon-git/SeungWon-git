@@ -1,8 +1,10 @@
 <h2> Hi there 👋 I'm seungwon </h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungWon-git%2FSeungWon-git%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23414141&icon=valve.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3> I love developing fun & creative games! 🎮😆 </h3>
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+## 👨🏻‍💻 About Me 
 
 <!--
 **SeungwWon-git/SeungWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,15 +21,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏻‍💻 About Me 
-
-- 🌱 I’m currently learning GameProgramming
-- 📫 How to reach me: seungwon604@gmail.com
+- 🥇 I majored in GameEngineering
+- 🏠 I currently live in Suwon, Gyeonggi-do, Korea
 
 ## 💫 My skills
 
+![Unreal Badge](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![C++ Badge](https://img.shields.io/badge/C++-5294E2?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## My Github Status
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=monkeyman604">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungWon-git&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
