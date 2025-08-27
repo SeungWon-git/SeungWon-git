@@ -49,7 +49,11 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="mailto:seungwon604@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <a href="mailto:seungwon604@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
+  </a>
+  <br/>
+  📧 seungwon604@gmail.com
 </p>
 
 
