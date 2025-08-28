@@ -1,6 +1,6 @@
 <h2> Hi there 👋 I'm seungwon </h2>
 
-<h3> I love developing fun & creative games! 🎮😆 </h3>
+<h3> I love developing games more than playing them! 🎮😆 </h3>
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
