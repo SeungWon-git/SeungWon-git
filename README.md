@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   * ### [**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)
   * ### [**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)
   * ### [**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)
+  * ### [**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)
 
 ## 💫 My skills
 
