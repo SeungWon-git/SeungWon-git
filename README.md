@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ## 💫 Tech Stack
 - **Languages:**
 
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-5294E2?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C# Badge](https://custom-icon-badges.demolab.com/badge/C%23-F7DF1E?style=for-the-badge&logo=csharp&logoColor=black)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
