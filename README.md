@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 
 ## 🎮 My Games
-  * ### [**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)
-  * ### [**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)
-  * ### [**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)
-  * ### [**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)
-  * ### [**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)
-  * ### [**🎵 Rythm Macho!**](https://github.com/SeungWon-git/2DGP_git/blob/master/README.md)
+ ### <details><summary>[**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)</summary></details>
+ ### <details><summary>[**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)</summary></details>
+ ### <details><summary>[**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)</summary></details>
+ ### <details><summary>[**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)</summary></details>
+ ### <details><summary>[**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)</summary></details>
+ ### <details><summary>[**🎵 Rythm Macho!**](https://github.com/SeungWon-git/2DGP_git/blob/master/README.md)</summary></details>
 
 ## 💫 Tech Stack
 - **Languages:**
