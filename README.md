@@ -6,24 +6,11 @@
 
 ## 👨🏻‍💻 About Me 
 
-<!--
-**SeungwWon-git/SeungWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🥇 I majored in GameEngineering
 - 🏠 I currently live in Suwon, Gyeonggi-do, Korea
-
+- 🚀 I strive to become a developer who brings people’s dreams to life.
+- 🧑‍💻 I consider myself a well-organized team player who values collaboration.
+- 🎥 On a side note, I’m also a huge cinema fan. ^o^ 
 
 ## 🎮 My Games
  ### <details><summary>[**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)</summary></details>
