@@ -81,7 +81,7 @@
     </details>
 
 
-  * *(Click the game titles for more details.)*
+*(Click the game titles for more details.)*
 
 
 ## 💫 Tech Stack
