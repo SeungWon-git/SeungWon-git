@@ -13,12 +13,34 @@
 - 🎥 On a side note, I’m also a huge cinema fan. ^o^ 
 
 ## 🎮 My Games
- ### <details><summary>[**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)</summary></details>
- ### <details><summary>[**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)</summary></details>
- ### <details><summary>[**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)</summary></details>
- ### <details><summary>[**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)</summary></details>
- ### <details><summary>[**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)</summary></details>
- ### <details><summary>[**🎵 Rythm Macho!**](https://github.com/SeungWon-git/2DGP_git/blob/master/README.md)</summary></details>
+ ### <details><summary>[**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)
+   * It's a CO-OP multi-play zombie survivor game.
+   * Developed with Unreal Engine 5.
+   * A team project with three members: two client developers (including me) and one server developer.
+     * My main contribution was developing zombie AI.
+   * Our game's key features are **procedural slice system, resurrection by reassembling parts, zombie AI using a Behavior Tree model, and an IOCP server**. All of these were implemented entirely by us without any third-party tools.
+   * Gameplay Showcase Link: [▶️ Outside Gameplay Demo](https://www.youtube.com/watch?v=11JJCJvbKck)
+ </summary></details>
+ 
+ ### <details><summary>[**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)
+   * 
+</summary></details>
+ 
+ ### <details><summary>[**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)
+   *
+ </summary></details>
+ 
+ ### <details><summary>[**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)
+   * 
+ </summary></details>
+ 
+ ### <details><summary>[**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)
+   * 
+ </summary></details>
+ 
+ ### <details><summary>[**🎵 Rythm Macho!**](https://github.com/SeungWon-git/2DGP_git/blob/master/README.md)
+   * 
+ </summary></details>
 
 ## 💫 Tech Stack
 - **Languages:**
