@@ -4,6 +4,7 @@
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+
 ## 👨🏻‍💻 About Me 
 
 - 🥇 I majored in GameEngineering
@@ -12,6 +13,7 @@
 - 🧑‍💻 I consider myself a well-organized team player who values collaboration.
 - 🐛 I’m a bug-slaying programming wizard!
 - 🎥 On a side note, I’m also a huge cinema fan. 😉
+
 
 ## 🎮 My Games
 
@@ -77,6 +79,9 @@
        * It's a *parody* rhythm game which is inspired by YouTube contents '가짜사나이'.
        * I developed the game with **Python**, and all the image resources were *hand-made* by me.
     </details>
+
+
+  * *(Click the game titles for more details.)*
 
 
 ## 💫 Tech Stack
