@@ -13,35 +13,63 @@
 - 🎥 On a side note, I’m also a huge cinema fan. ^o^ 
 
 ## 🎮 My Games
- ### <details><summary>[**🧟‍♂️ Outside**](https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md)
-   * It's a CO-OP multi-play zombie survivor game.
-   * Developed with **Unreal Engine 5**.
-   * A team project with three members: two client developers (including me) and one server developer.
-     * My main contribution was developing ***zombie AI based on a custom Behavior Tree model***.
-   * Our game's key features are *'procedural slice system, resurrection by reassembling parts, zombie AI using a Behavior Tree model, and an IOCP server'*. All of these were implemented entirely by us without any third-party tools.
-   * Gameplay Showcase Link: [▶️ Outside Gameplay Demo](https://www.youtube.com/watch?v=11JJCJvbKck)
- </summary></details>
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/Outside/blob/main/JungSeungWon/README.md"><b>🧟‍♂️ Outside</b></a></h3>
+  </summary>
  
- ### <details><summary>[**🔨 Mole Game**](https://github.com/SeungWon-git/Mole-Game/blob/main/README.md)
+  * It's a CO-OP multi-play zombie survivor game.
+  * Developed with <b>Unreal Engine 5</b>.
+  * A team project with three members: two client developers (including me) and one server developer.
+    * My main contribution was developing <i><b>zombie AI based on a custom Behavior Tree model</b></i>.
+  * Our game's key features are <i>'procedural slice system, resurrection by reassembling parts, zombie AI using a Behavior Tree model, and an IOCP server'</i>.  
+    All of these were implemented entirely by us without any third-party tools.
+  * Gameplay Showcase Link: <a href="https://www.youtube.com/watch?v=11JJCJvbKck">▶️ Outside Gameplay Demo</a>
+</details>
+
+
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/Mole-Game/blob/main/README.md"><b>🔨 Mole Game</b></a></h3>
+  </summary>
+ 
    * This is an online arcade game inspired by the classic mole game.
    * Developed with **Unity Engine**.
    * Networking implemented using **Photon PUN 2 (Photon Unity Networking)**, and **Google Firebase** was used for database management.
    * It’s a competitive score-race game where *moles appear in random patterns*. Final scores are recorded on a global ranking leaderboard.
-</summary></details>
+</details>
+
  
- ### <details><summary>[**💣 Bomberman**](https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md)
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/Bomberman_project/blob/main/README.md"><b>💣 Bomberman</b></a></h3>
+  </summary>
+
+   * 
+ </summary></details>
+
+ 
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/Window-Programming/blob/main/README.md"><b>🦍 Donkey Kong</b></a></h3>
+  </summary>
+
    * 
  </summary></details>
  
- ### <details><summary>[**🦍 Donkey Kong**](https://github.com/SeungWon-git/Window-Programming/blob/main/README.md)
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md"><b>🔪 Slash It!</b></a></h3>
+  </summary>
+
    * 
  </summary></details>
  
- ### <details><summary>[**🔪 Slash It!**](https://github.com/SeungWon-git/Smart_Phone_Game_Programing_class/blob/main/README.md)
-   * 
- </summary></details>
+<details>
+  <summary>
+    <h3><a href="https://github.com/SeungWon-git/2DGP_git/blob/master/README.md"><b>🎵 Rythm Macho!</b></a></h3>
+  </summary>
  
- ### <details><summary>[**🎵 Rythm Macho!**](https://github.com/SeungWon-git/2DGP_git/blob/master/README.md)
    * 
  </summary></details>
 
