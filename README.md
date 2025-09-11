@@ -11,7 +11,7 @@
 - 🚀 I strive to become a developer who brings people’s dreams to life.
 - 🧑‍💻 I consider myself a well-organized team player who values collaboration.
 - 🐛 I’m a bug-slaying programming wizard!
-- 🎥 On a side note, I’m also a huge cinema fan. ^o^ 
+- 🎥 On a side note, I’m also a huge cinema fan. 😉
 
 ## 🎮 My Games
 
