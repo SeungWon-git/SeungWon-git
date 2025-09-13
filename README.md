@@ -61,7 +61,7 @@
        * It’s my recreation of the old classic 'Donkey Kong'.
        * **Solely developed** using C++ WinAPI.
        * It features 5 stages with various new obstacles, as well as *special intro and ending scenes*.
-       * 
+       * Gameplay Showcase Link: <a href="https://www.youtube.com/watch?v=PY4WDailCKE">▶️ Donkey Kong Gameplay Demo</a>
     </details>
 
 
