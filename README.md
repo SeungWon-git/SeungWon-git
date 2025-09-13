@@ -61,7 +61,7 @@
        * It’s my recreation of the old classic 'Donkey Kong'.
        * **Solely developed** using C++ WinAPI.
        * It features 5 stages with various new obstacles, as well as *special intro and ending scenes*.
-       * Gameplay Showcase Link: <a href="https://youtu.be/PY4WDailCKE">▶️ Donkey Kong Gameplay Demo</a>
+       * 
     </details>
 
 
@@ -72,6 +72,7 @@
        * This is a mobile game inspired by the famous game 'Fruit Ninja'.
        * Developed with **Android Studio**, where I learned about Java.
        * It includes 5 stages with randomly generated slimes, and you earn more points by slicing them into smaller pieces. The game also features some catchy sounds.
+       * Gameplay Showcase Link: <a href="https://youtu.be/1V0A2bs2eR8">▶️ Slash It! Gameplay Demo</a>
     </details>
 
 
