@@ -50,6 +50,7 @@
        * This is also an online multiplayer arcade game inspired by the classic game 'Bomberman'.
        * Developed using C++ WinAPI with **TCP socket programming** for networking.
        * I focused on synchronizing the remote players, bomb explosions, block destruction, and item spawning.
+       * Gameplay Showcase Link: <a href="https://youtu.be/9z3ks66RKt8">▶️ Bomberman Gameplay Demo</a>
     </details>
 
     
