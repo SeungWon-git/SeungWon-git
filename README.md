@@ -39,6 +39,7 @@
        * Developed with **Unity Engine**.
        * Networking implemented using **Photon PUN 2 (Photon Unity Networking)**, and **Google Firebase** was used for database management.
        * It’s a competitive score-race game where *moles appear in random patterns*. Final scores are recorded on a global ranking leaderboard.
+       * Gameplay Showcase Link: <a href="https://www.youtube.com/watch?v=drIOa46xr9k">▶️ Mole Game Gameplay Demo</a>
     </details>
 
 
