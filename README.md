@@ -82,6 +82,7 @@
 
        * It's a *parody* rhythm game which is inspired by YouTube contents '가짜사나이'.
        * I developed the game with **Python**, and all the image resources were *hand-made* by me.
+       * Gameplay Showcase Link: <a href="https://youtu.be/rHTtmvxiylg">▶️ Rhythm Macho! Gameplay Demo</a>
     </details>
 
 
